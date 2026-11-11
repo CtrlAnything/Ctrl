@@ -1,0 +1,4 @@
+# Keep signed update files byte-for-byte identical on every computer.
+/mac/appcast.xml -text
+/mac/Ctrl-*.md -text
+/ios/version.json -text

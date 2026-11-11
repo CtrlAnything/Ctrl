@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ctrl for Mac</title>
+        <item>
+            <title>1.4</title>
+            <pubDate>Tue, 10 Nov 2026 18:23:31 -0800</pubDate>
+            <sparkle:version>1006</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="OtBLQX4xN7JMs5R/kSDODqE1On5keqV71/Yox1O/XYDOjOmwK+1zmdZMZpU11NYyPjO2ei078+GKi97MqDF8AA==" sparkle:length="537">https://ctrlanything.github.io/Ctrl/mac/Ctrl-for-Mac-1.4.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/CtrlAnything/Ctrl/releases/download/helper-1.4/Ctrl-for-Mac-1.4.dmg" length="1938265" type="application/octet-stream" sparkle:edSignature="MJo4FhkANHF5Tx6HvsAMMmT3be1j0h4r4QOXLe0ALRcRjzaZRdzrkn1wxlfF9pwK7imfKqhwLDyedfALiY8sBg=="/>
+        </item>
+        <item>
+            <title>1.3</title>
+            <pubDate>Tue, 10 Nov 2026 17:57:25 -0800</pubDate>
+            <sparkle:version>1005</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="jRv2NprMd4VaFdqCSeO70CeQisdRQ31b5WIsckVx6tZhTzHCkvP2LPmoPoM0gVSOwEw3CdgYWj6h/MsULiJzAQ==" sparkle:length="650">https://ctrlanything.github.io/Ctrl/mac/Ctrl-Helper-1.3.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/CtrlAnything/Ctrl/releases/download/helper-1.3/Ctrl-Helper-1.3.dmg" length="1925837" type="application/octet-stream" sparkle:edSignature="LB24GQnN/xT1c/o0LtUK4BC4HKrj6VNcOV4J3x8q18ffB3eYAwYCwwpBpjclji+yuiREdSqp1dEQ2YWgMX4DDA=="/>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: gsjvU5Yixi9PjgKF5hWcQe02c6Rj9ysEuCNLCse83BmKX81N7eHlflNlYWskskJhVe3JLJMcWzajvQbHbOafBw==
+length: 2159
+-->

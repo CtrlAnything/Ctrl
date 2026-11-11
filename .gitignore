@@ -1,0 +1,19 @@
+# Local clutter
+.DS_Store
+._*
+Thumbs.db
+*~
+*.log
+/build/
+node_modules/
+
+# App downloads belong in Releases
+*.dmg
+*.zip
+*.app/
+
+# Private files never belong here
+.env*
+*.p8
+*.p12
+*.pfx
