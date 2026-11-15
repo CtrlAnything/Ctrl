@@ -6,6 +6,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Ctrl for Mac</title>
         <item>
+            <title>1.5</title>
+            <pubDate>Sat, 14 Nov 2026 16:34:50 -0800</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>1007</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="uBDrgotigrlXThGOz5MxkweMeqD4IYXi0ZAYmyRrJ/VVeTq0lqb50vEFX93/2cOeY0DPQBaReBuzFnU7XSccBA==" sparkle:length="429">https://ctrlanything.github.io/Ctrl/mac/Ctrl-for-Mac-1.5.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/CtrlAnything/Ctrl/releases/download/helper-1.5/Ctrl-for-Mac-1.5.dmg" length="1942734" type="application/octet-stream" sparkle:edSignature="cfZ+1gyAmxUiHbWlOqvOtTAo2/niI2jgio4LhOFlJdS5cIgiNot2QPwRQDh0M6fLX0y4hHJDwldPsbb+p7hzCQ=="/>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Tue, 10 Nov 2026 18:23:31 -0800</pubDate>
             <sparkle:version>1006</sparkle:version>
@@ -25,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: gsjvU5Yixi9PjgKF5hWcQe02c6Rj9ysEuCNLCse83BmKX81N7eHlflNlYWskskJhVe3JLJMcWzajvQbHbOafBw==
-length: 2159
+edSignature: 1AT+HZvLqlnZGTS0bX/7x+DNdB9WNTgBvntw7tJcsIdu5/0sG46nNi06Ou3Mdx7Nd4HaLq7bzWOCoUkqfMf/CQ==
+length: 3077
 -->
