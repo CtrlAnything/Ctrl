@@ -7,8 +7,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Ctrl for Mac</title>
         <item>
             <title>1.5</title>
-            <pubDate>Sat, 14 Nov 2026 16:34:50 -0800</pubDate>
-            <sparkle:channel>staging</sparkle:channel>
+            <pubDate>Sat, 14 Nov 2026 16:53:23 -0800</pubDate>
             <sparkle:version>1007</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -35,6 +34,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 1AT+HZvLqlnZGTS0bX/7x+DNdB9WNTgBvntw7tJcsIdu5/0sG46nNi06Ou3Mdx7Nd4HaLq7bzWOCoUkqfMf/CQ==
-length: 3077
+edSignature: NNUV3kkErXRia5SOvtF8FHwBJlQiIR8Nb9r5oeOvnDL/g6q9DMTKAibMHrlbpIqJRefiHvbRXqWDDhMLVeDOAg==
+length: 3022
 -->
